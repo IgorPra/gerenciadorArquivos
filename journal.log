@@ -1,0 +1,7 @@
+2026-05-28 17:52:32 | CREATE_DIRECTORY | /documentos | SUCCESS
+2026-05-28 17:52:32 | CREATE_FILE | /documentos/arquivo.txt | SUCCESS
+2026-05-28 17:52:32 | COPY_FILE | /documentos/arquivo.txt -> /backup.txt | SUCCESS
+2026-05-28 17:52:32 | RENAME_FILE | /documentos/arquivo.txt -> novo_nome.txt | SUCCESS
+2026-05-28 17:52:32 | DELETE_FILE | /documentos/novo_nome.txt | SUCCESS
+2026-05-28 17:52:32 | DELETE_DIRECTORY | /documentos | SUCCESS
+2026-05-28 18:00:49 | CREATE_DIRECTORY | /teste | SUCCESS
