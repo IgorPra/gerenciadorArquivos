@@ -232,4 +232,4 @@ O diretório só pode ser removido quando está vazio. Para remover um diretóri
 
 O journal registra as operações, mas não refaz automaticamente operações depois de uma falha. A persistência principal do simulador é feita pelo arquivo `filesystem.dat`.
 
-Repositório: [rcacau/gerenciadorArquivos](https://github.com/rcacau/gerenciadorArquivos)
+Repositório: [rcacau/gerenciadorArquivos](https://github.com/IgorPra/gerenciadorArquivos)
